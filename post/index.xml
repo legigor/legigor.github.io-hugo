@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Igor Tamashchuk&#39;s Pro Blog</title>
+    <link>http://legigor.github.io/post/</link>
+    <description>Recent content in Posts on Igor Tamashchuk&#39;s Pro Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2015 14:16:17 +0200</lastBuildDate>
+    <atom:link href="http://legigor.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://legigor.github.io/post/welcome/</link>
+      <pubDate>Sun, 08 Mar 2015 14:16:17 +0200</pubDate>
+      
+      <guid>http://legigor.github.io/post/welcome/</guid>
+      <description>&lt;p&gt;Some posts will be here very soon&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
